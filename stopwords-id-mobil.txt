@@ -1179,4 +1179,6 @@ honda
 hyundai
 suzuki 
 mitsubishi
-wuling', 'mobil'
+wuling
+mobil
+suzukiindonesia
