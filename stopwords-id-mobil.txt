@@ -1173,3 +1173,10 @@ and
 the
 rt
 yuk
+toyota
+daihatsu
+honda
+hyundai
+suzuki 
+mitsubishi
+wuling', 'mobil'
